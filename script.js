@@ -1,12 +1,15 @@
 const gifStages = [
     "https://media.tenor.com/rPiWjOBkoO0AAAAj/cinnamoroll-sanrio.gif",    // 0 shatter
-    "https://media.tenor.com/nPZmKB04o_sAAAAj/cinnamoroll.gif",  // 1 waaa
-    "https://media.tenor.com/YU3mvP2PzdsAAAAj/sanrio.gif",  // 2 about to cry
-    "https://media.tenor.com/ggokQeI5AMMAAAAj/sanrio-white.gif", // 3 cry
-    "https://media.tenor.com/WMhWacfoZWgAAAAj/minipini.gif",       // 4 shake
-    "https://c.tenor.com/apWeoyOOvtUAAAAd/tenor.gif",   // 5 devastated
-    "https://c.tenor.com/3AkI0IyP0QgAAAAd/tenor.gif",  // 6 daze
-    "https://media.tenor.com/orFLTNidP6YAAAAj/cinnamoroll.gif"  // 7 crying runaway
+    "https://media.tenor.com/rPiWjOBkoO0AAAAj/cinnamoroll-sanrio.gif",    // 1 shatter
+    "https://media.tenor.com/nPZmKB04o_sAAAAj/cinnamoroll.gif",  // 2 waaa
+    "https://media.tenor.com/YU3mvP2PzdsAAAAj/sanrio.gif",  // 3 about to cry
+    "https://media.tenor.com/ggokQeI5AMMAAAAj/sanrio-white.gif", // 4 cry
+    "https://media.tenor.com/WMhWacfoZWgAAAAj/minipini.gif",       // 5 shake
+    "https://c.tenor.com/apWeoyOOvtUAAAAd/tenor.gif",   // 6 devastated
+    "https://c.tenor.com/3AkI0IyP0QgAAAAd/tenor.gif",  // 7 daze
+    "https://media.tenor.com/orFLTNidP6YAAAAj/cinnamoroll.gif",  // 7 crying runaway
+     "https://media.tenor.com/orFLTNidP6YAAAAj/cinnamoroll.gif"  // 8 mad
+
 ]
 
 const noMessages = [
